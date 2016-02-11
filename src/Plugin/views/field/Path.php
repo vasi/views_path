@@ -8,6 +8,7 @@
 namespace Drupal\views_path\Plugin\views\field;
 
 use Drupal\Core\Language\LanguageManagerInterface;
+use Drupal\Core\Entity\EntityManagerInterface;
 use Drupal\views\Entity\Render\EntityTranslationRenderTrait;
 use Drupal\views\Plugin\views\display\DisplayPluginBase;
 use Drupal\views\Plugin\views\field\FieldPluginBase;

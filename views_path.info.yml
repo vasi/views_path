@@ -1,0 +1,9 @@
+name: views_path
+type: module
+description: Views field for path to any entity
+core: 8.x
+package: Views
+dependencies:
+  - views
+  - path
+
